@@ -1,0 +1,1 @@
+Bonjour la team , ceci est un simple programme que j'ai codé en python dont le rôle est de nous proposer des plats de manière aléatoire . Le fichier txt est modifiable pour permettre de changer ou mettre à jour les plats (pour l'instant il n'y a que des plats Sénégalais ).Je vais essayer de l'améliorer au fur et à mesure pour avoir plus de fonctionnalités.
